@@ -9,5 +9,5 @@ The app is also deployed via heroku.
 
 ## Links
 -[Github](https://github.com/ArmandoUg/Homework-16-Texty-Edity)
--[Deployed Link](https://github.com/ArmandoUg/Homework-16-Texty-Edity)
+-[Deployed Link](https://texty-edity.herokuapp.com)
 
